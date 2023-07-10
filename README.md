@@ -13,7 +13,7 @@ My current favourite technologies are [TailWindCss](https://tailwindcss.com), [B
 
 <div align="center">
 <p>
-<img src="[github-readme-streak-stats.herokuapp.com/?user=timhpuPl&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=timhpuPl&theme=github-dark-blue&hide_border=true)" alt="Github streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=timhpuPl&theme=github-dark-blue&hide_border=true)" alt="Github streak" />
 </p>
 </div>
 
