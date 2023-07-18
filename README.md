@@ -5,6 +5,9 @@
 - 💻 I specialise in **web design**.
 - 🚀 Currently working on [Wyjechani.pl](https://wyjechani.pl/)!.
 
+  👾 My finished projects:
+- 🏆 [Wyjechani.pl](https://wyjechani.pl/)
+
 My current favourite technologies are [TailWindCss](https://tailwindcss.com), [Bootstrap](https://getbootstrap.com), [React](https://react.dev), [Figma](https://www.figma.com).
 
 <div align="center">
