@@ -3,7 +3,8 @@
 
 - 📍 Based in **Poland, Warsaw**.
 - 💻 I specialise in **web design**.
-- 🚀 Currently working on [Wyjechani.pl](https://wyjechani.pl/)!.
+- 🚀 Currently working on e-commerce next.js store!.
+
 
   👾 My finished projects:
 - 🏆 [Wyjechani.pl](https://wyjechani.pl/)
