@@ -6,7 +6,7 @@
 - 🚀 Currently working on e-commerce next.js store!.
 
 
-  👾 My finished projects:
+     <h2>My finished projects:</h2>
 - 🏆 [Wyjechani.pl](https://wyjechani.pl/)
 
 My current favourite technologies are [TailWindCss](https://tailwindcss.com), [Bootstrap](https://getbootstrap.com), [React](https://react.dev), [Figma](https://www.figma.com).
