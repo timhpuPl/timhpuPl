@@ -9,7 +9,7 @@
      <h2>My finished projects:</h2>
 - 🏆 [Wyjechani.pl](https://wyjechani.pl/)
 
-My current favourite technologies are [TailWindCss](https://tailwindcss.com), [Bootstrap](https://getbootstrap.com), [React](https://react.dev), [Figma](https://www.figma.com).
+My current favourite technologies are [React](https://react.dev), [Figma](https://www.figma.com).
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timhpuPl&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="timhpu" /></p>
