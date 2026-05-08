@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Hey, I'm timhpu 👋
+## Hey, I'm timhpu 👋
 
 **Solo developer building free tools for Rust server owners.**
 
