@@ -31,8 +31,6 @@
 | 📁 File manager | Browse & edit server files without SSH |
 | 🧩 Oxide / Carbon | Plugin management built-in |
 
-[![CobaltLab Repo](https://img.shields.io/badge/View_CobaltLab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timhpuPl/cobaltlabwiki)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -50,16 +48,7 @@
 
 </div>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=timhpuPl&show_icons=true&theme=dark&bg_color=0a0908&title_color=c45b20&icon_color=c45b20&text_color=c8c4c0&border_color=2a2725&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timhpuPl&layout=compact&theme=dark&bg_color=0a0908&title_color=c45b20&text_color=c8c4c0&border_color=2a2725&hide_border=false" />
-
-</div>
 
 ---
 
