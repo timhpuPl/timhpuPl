@@ -11,14 +11,14 @@
 **Solo developer building free tools for Rust server owners.**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/timhpu)
-[![Website](https://img.shields.io/badge/Website-cobaltlabwiki.vercel.app-c45b20?style=flat-square&logo=vercel&logoColor=white)](https://cobaltlabwiki.vercel.app)
+[![Website](https://img.shields.io/badge/Website-wipekit.vercel.app-c45b20?style=flat-square&logo=vercel&logoColor=white)](https://wipekit.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/timhpuPl?style=flat-square&color=c45b20&labelColor=1a1815&label=Followers)](https://github.com/timhpuPl)
 
 </div>
 
 ---
 
-## 🦀 Featured Project — CobaltLab
+## 🦀 Featured Project — Wipekit
 
 > A free, self-hosted web panel for managing Rust dedicated servers.
 > Control, monitor, manage players, and automate tasks — all from one modern interface.
