@@ -18,10 +18,10 @@
 
 ---
 
-## 🦀 Featured Project — Wipekit
+## 🦀 Featured Project - Wipekit
 
 > A free, self-hosted web panel for managing Rust dedicated servers.
-> Control, monitor, manage players, and automate tasks — all from one modern interface.
+> Control, monitor, manage players, and automate tasks - all from one modern interface.
 
 | | |
 |---|---|
